@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ayan-x/CounterApp.git/static/css/main.147c6eb9.css",
+    "main.js": "/Ayan-x/CounterApp.git/static/js/main.79e8d139.js",
+    "static/js/787.f5cd5acb.chunk.js": "/Ayan-x/CounterApp.git/static/js/787.f5cd5acb.chunk.js",
+    "index.html": "/Ayan-x/CounterApp.git/index.html",
+    "main.147c6eb9.css.map": "/Ayan-x/CounterApp.git/static/css/main.147c6eb9.css.map",
+    "main.79e8d139.js.map": "/Ayan-x/CounterApp.git/static/js/main.79e8d139.js.map",
+    "787.f5cd5acb.chunk.js.map": "/Ayan-x/CounterApp.git/static/js/787.f5cd5acb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.147c6eb9.css",
+    "static/js/main.79e8d139.js"
+  ]
+}
